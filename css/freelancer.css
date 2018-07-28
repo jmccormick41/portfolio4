@@ -169,7 +169,7 @@ header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
   background-color:#006400;
-   background-image: url('https://images.unsplash.com/photo-1507650331828-88adf37b6efd?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f019b790bd5774039085756543dfcc5e&auto=format&fit=crop&w=1267&q=80');
+   background-image: url('../img/hero-area.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   border-top: solid 1em #FFCF33;  
